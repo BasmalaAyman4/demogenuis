@@ -1,0 +1,62 @@
+{
+  "header": {
+    "Logout":"تسجيل خروج",
+    "Login":"تسجيل دخول",
+    "Wishlist":"قائمة الرغبات",
+    "Cart":"سلة التسوق",
+    "Cash Back":"كاش باك",
+    "Profile":"الملف الشخصي",
+    "Searchforproducts":"البحث عن المنتجات"
+  },
+  "auth": {
+    "Signintocontinue":"سجل الدخول للمتابعة",
+    "welcomeBack": "مرحباً بعودتك",
+    "InvalidOTPcode":"كود التحقق غير صحيح",
+"Passwordsdonotmatch":"كلمة المرور غير متطابقة",
+"Passwordmustbeatleast8characters":"كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+"CompleteYourProfile":"أكمل بياناتك",
+"Fillinthedetailsbelowtocompleteregistration":"املأ البيانات التالية لإكمال التسجيل",
+"FirstName":"الاسم الأول",
+"LastName":"الاسم الأخير",
+"Password":"كلمة المرور",
+"ConfirmPassword":"تأكيد كلمة المرور",
+"Address":"العنوان",
+"Birth Date":"تاريخ الميلاد",
+"Saving":"جاري الحفظ",
+"CompleteRegistration":"إكمال التسجيل",
+"LoginwithPassword":"تسجيل الدخول بكلمة المرور",
+"LoginwithOTP":"تسجيل الدخول برمز التحقق",
+"Back":"رجوع",
+"Wewillsendouaverificationcodetoyourmobile":"سنرسل لك رمز التحقق على رقم موبايلك",
+"MobileNumber":"رقم الموبايل",
+"Sending":"جاري الإرسال",
+"SendOTP":"إرسال رمز التحقق",
+"EnterVerificationCode":"أدخل رمز التحقق",
+"Wesentaverificationcodetoyourmobile":"تم إرسال رمز التحقق إلى موبايلك",
+"Verify":"تأكيد",
+"Enterpassword":"أدخل كلمة المرور",
+"Signingin":"جاري التسجيل",
+"SignIn":"تسجيل الدخول"
+
+
+
+
+
+   
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة",
+    "continueShopping": "متابعة التسوق",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "total": "المجموع الكلي",
+    "checkout": "إتمام الطلب",
+    "color": "اللون",
+    "size": "المقاس",
+    "OrderSummary": "ملخص الطلب",
+    "discount": "الخصم",
+    "deliveryFee": "رسوم الشحن"
+  }
+}

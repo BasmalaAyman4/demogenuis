@@ -1,0 +1,71 @@
+{
+  "header": {
+     "Logout":"Logout",
+    "Login":"Login",
+    "Wishlist":"Wishlist",
+    "Cart":"Cart",
+    "Cash Back":"Cash Back",
+    "Profile":"Profile",
+    "Searchforproducts":"Search for products"
+  },
+  "auth": {
+    "Signintocontinue":"Sign in to continue",
+    "welcomeBack": "Welcome Back",
+    "InvalidOTPcode":"Invalid OTP code",
+"Passwordsdonotmatch":"Passwords do not match",
+"Passwordmustbeatleast8characters":"Password must be at least 8 characters",
+"CompleteYourProfile":"Complete Your Profile",
+"Fillinthedetailsbelowtocompleteregistration":"Fill in the details below to complete registration",
+"FirstName":"First Name",
+"LastName":"Last Name",
+"Password":"Password",
+"ConfirmPassword":"Confirm Password",
+"Address":"Address",
+"BirthDate":"Birth Date",
+"Saving":"Saving",
+"CompleteRegistration":"Complete Registration",
+"LoginwithPassword":"Login with Password",
+"LoginwithOTP":"Login with OTP",
+"Back":"Back",
+"Wewillsendouaverificationcodetoyourmobile":"We will send you a verification code to your mobile",
+"MobileNumber":"Mobile Number",
+"Sending":"Sending",
+"SendOTP":"Send OTP",
+"EnterVerificationCode":"Enter Verification Code",
+"Wesentaverificationcodetoyourmobile":"We sent a verification code to your mobile",
+"Verify":"Verify",
+"Enterpassword":"Enter password",
+"Signingin":"Signing in",
+"SignIn":"Sign In"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "color": "Color",
+    "size": "Size",
+    "OrderSummary": "Order Summary",
+    "discount": "Discount",
+    "deliveryFee": "Delivery Fee"
+  }
+}
